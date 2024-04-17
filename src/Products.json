@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "producto prueba1",
+    "description": "Lorem Ipsum1",
+    "price": 201,
+    "thumbnail": "https://picsum.photos/200",
+    "code": "qmgb",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "title": "producto prueba2",
+    "description": "Lorem Ipsum2",
+    "price": 202,
+    "thumbnail": "https://picsum.photos/200",
+    "code": "joqn",
+    "stock": 20
+  },
+  {
+    "id": 3,
+    "title": "producto prueba3",
+    "description": "Lorem Ipsum3",
+    "price": 203,
+    "thumbnail": "https://picsum.photos/200",
+    "code": "i2ps",
+    "stock": 50
+  }
+]
